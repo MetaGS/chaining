@@ -1,0 +1,1 @@
+Chaining possibilities of JS
